@@ -1,8 +1,6 @@
 # More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks (*Lamprolepis smaragdina*)
 
-This repository contains the data, code, and analysis materials for the article ***More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks***.
-
-For the full write-up and interpretation, see the companion blog post here: [**Full article link coming soon**](#)
+This repository contains the data, code, and analysis materials for the article [***More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks***](https://holotypica.com/more-than-morphs-emerald-tree-skinks/).
 
 ## Abstract
 
@@ -22,10 +20,10 @@ This repository is intended as the reproducible research companion to the articl
 
 ## Citation
 
-This repository accompanies the article and blog post ***More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks (*****Lamprolepis smaragdina*)***. The blog post presents the full narrative, interpretation, and background discussion, while this repository provides the supporting data and analytical workflow.
+This repository accompanies the article and blog post [***More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks (*****Lamprolepis smaragdina*)***](https://holotypica.com/more-than-morphs-emerald-tree-skinks/). The blog post presents the full narrative, interpretation, and background discussion, while this repository provides the supporting data and analytical workflow.
 
-If you use or refer to this repository, please cite the associated article/blog post once published:
+If you use or refer to this repository, please cite the associated article/blog post:
 
 ```         
-Arietta, AZA. (2026). More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks (Lamprolepis smaragdina). Link forthcoming.
+Arietta, AZA. (2026). More Than Morphs: Geography, Lineages, and Trade in Emerald Tree Skinks (Lamprolepis smaragdina). holotypica.com/more-than-morphs-emerald-tree-skinks/.
 ```
